@@ -1,2 +1,2 @@
-# Googleable
+# datasciencecoursera
 Data Science project
